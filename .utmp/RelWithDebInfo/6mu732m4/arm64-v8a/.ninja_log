@@ -1,0 +1,12 @@
+# ninja log v5
+4	89	1744485065230188153	FramePacing/CMakeFiles/swappywrapper.dir/UnitySwappyWrapper.cpp.o	bd7fd5046516f3f7
+89	124	1744485065262188207	/home/ctw02778/idol_projects/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/6mu732m4/obj/arm64-v8a/libswappywrapper.so	d60c531bcd31e77a
+1	828	1744485065966189383	GameActivity/CMakeFiles/game.dir/UGAEntry.cpp.o	80b491af88da3dde
+2	831	1744485065969189388	GameActivity/CMakeFiles/game.dir/UGAInputKeyEvent.cpp.o	d446be8846850465
+1	996	1744485066128189653	GameActivity/CMakeFiles/game.dir/UGADebug.cpp.o	3dfcfbfbd4eebc35
+2	997	1744485066131189658	GameActivity/CMakeFiles/game.dir/UGAInputMotionEvent.cpp.o	311bfe13869d2ba9
+1	1079	1744485066215189799	GameActivity/CMakeFiles/game.dir/UGAConfiguration.cpp.o	699c418d5accf9e1
+3	1196	1744485066331189992	GameActivity/CMakeFiles/game.dir/UGASoftKeyboard.cpp.o	7612d1ea653f7313
+1	1323	1744485066458190205	GameActivity/CMakeFiles/game.dir/UGAInput.cpp.o	fc624318e5281e00
+0	1353	1744485066490190258	GameActivity/CMakeFiles/game.dir/UGAApplication.cpp.o	b1750e3e71bea145
+1353	1374	1744485066513190296	/home/ctw02778/idol_projects/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/6mu732m4/obj/arm64-v8a/libgame.so	72275fe428a41a23
